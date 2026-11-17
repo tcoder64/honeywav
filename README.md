@@ -2,7 +2,7 @@
 A Python audio processing library, Core in c, and generate wav file.
 
 Example using this library:
-```
+```python
 import honeywav
 import honeywav.dsp as dsp
 import math
